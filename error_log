@@ -1,0 +1,66 @@
+[20-Aug-2025 18:52:03 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 18:52:03 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzMvsOLCFzZcfQBPWmO6aQGCkqjB7d_tL-9_rdZda3PF-bAsJbDBr4cN0347EnhxXk/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 18:54:20 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 18:54:20 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzMvsOLCFzZcfQBPWmO6aQGCkqjB7d_tL-9_rdZda3PF-bAsJbDBr4cN0347EnhxXk/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 18:59:18 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 18:59:18 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzMvsOLCFzZcfQBPWmO6aQGCkqjB7d_tL-9_rdZda3PF-bAsJbDBr4cN0347EnhxXk/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 24
+[20-Aug-2025 19:08:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 28
+[20-Aug-2025 19:08:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 28
+[20-Aug-2025 19:09:38 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:09:38 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzMvsOLCFzZcfQBPWmO6aQGCkqjB7d_tL-9_rdZda3PF-bAsJbDBr4cN0347EnhxXk/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:12:22 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:12:22 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzMvsOLCFzZcfQBPWmO6aQGCkqjB7d_tL-9_rdZda3PF-bAsJbDBr4cN0347EnhxXk/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:16:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:16:05 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:21:10 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:21:10 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:27:59 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:27:59 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:28:04 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[20-Aug-2025 19:28:04 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:37:48 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:37:48 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:45:28 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:45:28 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:48:23 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:48:23 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:57:15 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 00:57:15 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:42:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:42:05 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:47:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:47:40 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:48:49 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:48:49 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:48:58 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:48:58 UTC] PHP Warning:  file_get_contents(https://script.google.com/macros/s/AKfycbzy_pJtcF74wrZNkhSWOLN5RbYNs7Cuc02YE09uIO7czyNmjhhGnxR8zF61HC7FJqM/exec): Failed to open stream: no suitable wrapper could be found in /home/vaarahidiagnosti/public_html/submit_form.php on line 34
+[21-Aug-2025 01:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 24
+[21-Aug-2025 01:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 24
+[21-Aug-2025 01:58:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 26
+[21-Aug-2025 01:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/vaarahidiagnosti/public_html/submit_form.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vaarahidiagnosti/public_html/submit_form.php on line 26
+[21-Aug-2025 12:01:26 UTC] Twilio API Error: {"code":21608,"message":"The number +91799317XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +91799317XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers","more_info":"https://www.twilio.com/docs/errors/21608","status":400}
+[21-Aug-2025 12:07:28 UTC] Twilio API Error: {"code":21608,"message":"The number +91868817XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +91868817XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers","more_info":"https://www.twilio.com/docs/errors/21608","status":400}
+[22-Aug-2025 23:04:13 UTC] Twilio API Error: {"code":21608,"message":"The number +91957350XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +91957350XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers","more_info":"https://www.twilio.com/docs/errors/21608","status":400}
+[28-Aug-2025 15:42:17 UTC] Twilio API Error: {"code":21608,"message":"The number +91986650XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +91986650XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers","more_info":"https://www.twilio.com/docs/errors/21608","status":400}
